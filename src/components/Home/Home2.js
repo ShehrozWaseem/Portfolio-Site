@@ -19,35 +19,18 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-            I've developed a deep passion for programming, immersing myself in languages like <b className="purple">JavaScript, TypeScript, and Python</b>. 
-              <br />
-              <br />My journey has led me to excel in building cutting-edge web technologies and products, particularly in areas related to Blockchain.
-
+              Passionate and driven Full Stack Developer & DevOps Engineer with a deep love for programming, specializing in <b className="purple">JavaScript, TypeScript, and Python</b>.
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
-              <i>
-                <b className="purple">Web Technologies and Cloud Native </b> tools such as <b className="purple">Docker, Kubernetes</b>  and
-                also in areas related to{" "}
-                <b className="purple">
-                  Blockchain.
-                </b>
-              </i>
+              My journey has led me to excel in building cutting-edge web technologies and products, particularly in areas related to <b className="purple">Blockchain</b>.
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
-              <i>
-                <b className="purple">
-                  {" "}
-                  Modern Javascript Library and Frameworks
-                </b>
-              </i>
-              &nbsp; like
-              <i>
-                <b className="purple"> React.js and Next.js</b>
-              </i>
+              My field of interest includes developing new <i><b className="purple">Web Technologies and Cloud Native</b></i> tools such as <b className="purple">Docker</b> and <b className="purple">Kubernetes</b>, alongside expertise in IT infrastructure management involving <b className="purple">virtualization with Proxmox and VMware ESXi</b>. I also possess strong computer networking skills and implement robust security practices.
+              <br />
+              <br />
+              Whenever possible, I apply my passion for developing products with <b className="purple">Node.js</b> and modern JavaScript libraries and frameworks like <i><b className="purple">React.js and Next.js</b></i>.
             </p>
+
           </Col>
           <Col md={4} className="myAvtar">
             <Tilt>
